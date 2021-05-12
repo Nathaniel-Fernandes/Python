@@ -1,3 +1,8 @@
+# Date: 12 May 2021
+# Author: Nathaniel Fernandes
+# Description: When run, the user is asked to enter a number and we'll calculate if it's odd or even!
+# Difficulty: 1/10
+
 want_to_play = input("Howdy! Do you want to play a game (Y/N): ")
 
 while want_to_play in ("Y", "y", "yes", "yup"):
